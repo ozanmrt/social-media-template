@@ -1,0 +1,161 @@
+.navbar-inverse{
+    background-color: #4d636f;
+    border-color: white;
+}
+
+.navbar-brand{
+    color: #ccc !important;
+}
+
+.navbar-brand:hover{
+    color: #fff !important;
+}
+
+
+.navbar-inverse .navbar-nav>li>a{
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+    color: black;
+    background-color: white;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: black;
+    background-color: white;
+}  
+
+.icon-boyut{
+    font-size: 18px;
+    line-height: 19px;
+}
+
+.resim-boyut1{
+    height:23px;
+    width:23px; 
+}
+
+body{
+    background-color: #f5f7f8;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.kaplayici{
+    
+    margin-left: 25px;
+    margin-top: 75px;
+    
+}
+
+.icerik{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+    padding: 5px;
+    margin-bottom: 25px;
+    background-color: white;
+}
+
+
+.resim-boyut2{
+    height:106px;
+    width:106px; 
+    margin-bottom: 20px;
+}
+
+.profil-yazi-renk{
+    color: #4387E5;
+}
+
+.kesfet{
+    background-color: #4d636f !important;
+    color: #fff !important;
+}
+
+.kesfet:hover{
+    text-decoration: none !important;
+}
+
+.kesfet:active{
+    text-decoration: none !important;
+}
+
+.kesfet:focus{
+    text-decoration: none !important;
+}
+
+.resim-boyut3{
+    height:70px;
+    width:70px; 
+}
+
+#kapak-foto{
+    background-image: url("../resimler/coverp1.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.box-s{
+    transition: all 400ms;
+}
+
+.box-s:hover{
+    box-shadow: 4px 4px 16px -2px rgba(0,0,0,0.85);
+}
+
+
+
+
+.chip {
+    display: inline-block;
+    padding: 0 25px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+    margin-bottom: 70px;
+}
+
+.chip img {
+    float: left;
+    margin: 0 10px 0 -25px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.closebtn {
+    padding-left: 10px;
+    color: #888;
+    font-weight: bold;
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.closebtn:hover {
+    color: #000;
+}
+
+
+
+
+
+.menu-img{
+    height: 200px;
+    width: 200px;    
+}
+
+.mesaj-istek{
+    color: #828282;
+    font-size: 12px;
+}
+
+.mesajlar-modal:hover{
+    text-decoration: none;
+    
+}
